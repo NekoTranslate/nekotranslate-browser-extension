@@ -28,5 +28,11 @@
   "browser_action": {
     "default_popup": "popup.html",
     "default_title": "NekoTranslate Settings"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "{8282d9fa-c1d2-4170-af58-850bd1ec4a4a}",
+      "strict_min_version": "58.0"
+    }
   }
 }
