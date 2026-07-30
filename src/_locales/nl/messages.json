@@ -1,0 +1,134 @@
+{
+  "atLeast": {
+    "message": "minstens"
+  },
+  "balance": {
+    "message": "Saldo:"
+  },
+  "cppInfo": {
+    "message": "★ cpp = credits per pagina"
+  },
+  "credits": {
+    "message": "credits"
+  },
+  "currentDomain": {
+    "message": "Huidig domein"
+  },
+  "deeplUnsupportedLanguage": {
+    "message": "DeepL ondersteunt de geselecteerde doeltaal momenteel niet."
+  },
+  "extDescription": {
+    "message": "Vertaal elke manga of strip ter plaatse en in realtime."
+  },
+  "instructionText": {
+    "message": "Klik op de website met de rechtermuisknop op de mangapagina die je wilt vertalen"
+  },
+  "langCs": {
+    "message": "Tsjechisch"
+  },
+  "langDa": {
+    "message": "Deens"
+  },
+  "langDe": {
+    "message": "Duits"
+  },
+  "langEn": {
+    "message": "Engels"
+  },
+  "langEs": {
+    "message": "Spaans"
+  },
+  "langEt": {
+    "message": "Estisch"
+  },
+  "langFi": {
+    "message": "Fins"
+  },
+  "langFr": {
+    "message": "Frans"
+  },
+  "langHr": {
+    "message": "Kroatisch"
+  },
+  "langHu": {
+    "message": "Hongaars"
+  },
+  "langId": {
+    "message": "Indonesisch"
+  },
+  "langIs": {
+    "message": "IJslands"
+  },
+  "langIt": {
+    "message": "Italiaans"
+  },
+  "langJa": {
+    "message": "Japans"
+  },
+  "langKo": {
+    "message": "Koreaans"
+  },
+  "langLt": {
+    "message": "Litouws"
+  },
+  "langLv": {
+    "message": "Lets"
+  },
+  "langNl": {
+    "message": "Nederlands"
+  },
+  "langNo": {
+    "message": "Noors"
+  },
+  "langPl": {
+    "message": "Pools"
+  },
+  "langPt": {
+    "message": "Portugees"
+  },
+  "langRo": {
+    "message": "Roemeens"
+  },
+  "langSk": {
+    "message": "Slowaaks"
+  },
+  "langSl": {
+    "message": "Sloveens"
+  },
+  "langSv": {
+    "message": "Zweeds"
+  },
+  "langZh": {
+    "message": "Chinees"
+  },
+  "language": {
+    "message": "Taal"
+  },
+  "notRealtime": {
+    "message": "niet realtime"
+  },
+  "plan": {
+    "message": "Abonnement:"
+  },
+  "selectAutomatically": {
+    "message": "<Automatisch selecteren>"
+  },
+  "sendToNekoTranslate": {
+    "message": "NekoTranslate aanroepen"
+  },
+  "settings": {
+    "message": "Instellingen"
+  },
+  "signIn": {
+    "message": "Inloggen"
+  },
+  "signOut": {
+    "message": "Uitloggen"
+  },
+  "targetLanguage": {
+    "message": "Doeltaal"
+  },
+  "translationEngine": {
+    "message": "Vertaalmachine"
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "atLeast": {
+    "message": "cel puțin"
+  },
+  "balance": {
+    "message": "Sold:"
+  },
+  "cppInfo": {
+    "message": "★ cpp = credite pe pagină"
+  },
+  "credits": {
+    "message": "credite"
+  },
+  "currentDomain": {
+    "message": "Domeniu curent"
+  },
+  "deeplUnsupportedLanguage": {
+    "message": "DeepL nu acceptă în prezent limba țintă selectată."
+  },
+  "extDescription": {
+    "message": "Tradu orice manga sau bandă desenată direct pe pagină și în timp real."
+  },
+  "instructionText": {
+    "message": "Pe site, dă clic dreapta pe pagina manga pe care vrei să o traduci"
+  },
+  "langCs": {
+    "message": "Cehă"
+  },
+  "langDa": {
+    "message": "Daneză"
+  },
+  "langDe": {
+    "message": "Germană"
+  },
+  "langEn": {
+    "message": "Engleză"
+  },
+  "langEs": {
+    "message": "Spaniolă"
+  },
+  "langEt": {
+    "message": "Estonă"
+  },
+  "langFi": {
+    "message": "Finlandeză"
+  },
+  "langFr": {
+    "message": "Franceză"
+  },
+  "langHr": {
+    "message": "Croată"
+  },
+  "langHu": {
+    "message": "Maghiară"
+  },
+  "langId": {
+    "message": "Indoneziană"
+  },
+  "langIs": {
+    "message": "Islandeză"
+  },
+  "langIt": {
+    "message": "Italiană"
+  },
+  "langJa": {
+    "message": "Japoneză"
+  },
+  "langKo": {
+    "message": "Coreeană"
+  },
+  "langLt": {
+    "message": "Lituaniană"
+  },
+  "langLv": {
+    "message": "Letonă"
+  },
+  "langNl": {
+    "message": "Olandeză"
+  },
+  "langNo": {
+    "message": "Norvegiană"
+  },
+  "langPl": {
+    "message": "Poloneză"
+  },
+  "langPt": {
+    "message": "Portugheză"
+  },
+  "langRo": {
+    "message": "Română"
+  },
+  "langSk": {
+    "message": "Slovacă"
+  },
+  "langSl": {
+    "message": "Slovenă"
+  },
+  "langSv": {
+    "message": "Suedeză"
+  },
+  "langZh": {
+    "message": "Chineză"
+  },
+  "language": {
+    "message": "Limbă"
+  },
+  "notRealtime": {
+    "message": "nu în timp real"
+  },
+  "plan": {
+    "message": "Plan:"
+  },
+  "selectAutomatically": {
+    "message": "<Selectează automat>"
+  },
+  "sendToNekoTranslate": {
+    "message": "Invocă NekoTranslate"
+  },
+  "settings": {
+    "message": "Setări"
+  },
+  "signIn": {
+    "message": "Conectare"
+  },
+  "signOut": {
+    "message": "Deconectare"
+  },
+  "targetLanguage": {
+    "message": "Limba țintă"
+  },
+  "translationEngine": {
+    "message": "Motor de traducere"
+  }
+}

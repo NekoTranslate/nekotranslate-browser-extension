@@ -1,0 +1,134 @@
+{
+  "atLeast": {
+    "message": "pelo menos"
+  },
+  "balance": {
+    "message": "Saldo:"
+  },
+  "cppInfo": {
+    "message": "★ cpp = créditos por página"
+  },
+  "credits": {
+    "message": "créditos"
+  },
+  "currentDomain": {
+    "message": "Domínio atual"
+  },
+  "deeplUnsupportedLanguage": {
+    "message": "O DeepL atualmente não suporta o idioma de destino selecionado."
+  },
+  "extDescription": {
+    "message": "Traduza qualquer mangá ou quadrinho no lugar e em tempo real."
+  },
+  "instructionText": {
+    "message": "No site, clique com o botão direito na página do mangá que você deseja traduzir"
+  },
+  "langCs": {
+    "message": "Tcheco"
+  },
+  "langDa": {
+    "message": "Dinamarquês"
+  },
+  "langDe": {
+    "message": "Alemão"
+  },
+  "langEn": {
+    "message": "Inglês"
+  },
+  "langEs": {
+    "message": "Espanhol"
+  },
+  "langEt": {
+    "message": "Estoniano"
+  },
+  "langFi": {
+    "message": "Finlandês"
+  },
+  "langFr": {
+    "message": "Francês"
+  },
+  "langHr": {
+    "message": "Croata"
+  },
+  "langHu": {
+    "message": "Húngaro"
+  },
+  "langId": {
+    "message": "Indonésio"
+  },
+  "langIs": {
+    "message": "Islandês"
+  },
+  "langIt": {
+    "message": "Italiano"
+  },
+  "langJa": {
+    "message": "Japonês"
+  },
+  "langKo": {
+    "message": "Coreano"
+  },
+  "langLt": {
+    "message": "Lituano"
+  },
+  "langLv": {
+    "message": "Letão"
+  },
+  "langNl": {
+    "message": "Holandês"
+  },
+  "langNo": {
+    "message": "Norueguês"
+  },
+  "langPl": {
+    "message": "Polonês"
+  },
+  "langPt": {
+    "message": "Português"
+  },
+  "langRo": {
+    "message": "Romeno"
+  },
+  "langSk": {
+    "message": "Eslovaco"
+  },
+  "langSl": {
+    "message": "Esloveno"
+  },
+  "langSv": {
+    "message": "Sueco"
+  },
+  "langZh": {
+    "message": "Chinês"
+  },
+  "language": {
+    "message": "Idioma"
+  },
+  "notRealtime": {
+    "message": "não em tempo real"
+  },
+  "plan": {
+    "message": "Plano:"
+  },
+  "selectAutomatically": {
+    "message": "<Selecionar automaticamente>"
+  },
+  "sendToNekoTranslate": {
+    "message": "Invocar NekoTranslate"
+  },
+  "settings": {
+    "message": "Configurações"
+  },
+  "signIn": {
+    "message": "Entrar"
+  },
+  "signOut": {
+    "message": "Sair"
+  },
+  "targetLanguage": {
+    "message": "Idioma de destino"
+  },
+  "translationEngine": {
+    "message": "Motor de tradução"
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "atLeast": {
+    "message": "mažiausiai"
+  },
+  "balance": {
+    "message": "Likutis:"
+  },
+  "cppInfo": {
+    "message": "★ cpp = kreditai už puslapį"
+  },
+  "credits": {
+    "message": "kreditai"
+  },
+  "currentDomain": {
+    "message": "Dabartinis domenas"
+  },
+  "deeplUnsupportedLanguage": {
+    "message": "DeepL šiuo metu nepalaiko pasirinktos tikslinės kalbos."
+  },
+  "extDescription": {
+    "message": "Verskite bet kurią mangą ar komiksą vietoje ir realiuoju laiku."
+  },
+  "instructionText": {
+    "message": "Svetainėje dešiniuoju pelės mygtuku spustelėkite mangos puslapį, kurį norite išversti"
+  },
+  "langCs": {
+    "message": "Čekų"
+  },
+  "langDa": {
+    "message": "Danų"
+  },
+  "langDe": {
+    "message": "Vokiečių"
+  },
+  "langEn": {
+    "message": "Anglų"
+  },
+  "langEs": {
+    "message": "Ispanų"
+  },
+  "langEt": {
+    "message": "Estų"
+  },
+  "langFi": {
+    "message": "Suomių"
+  },
+  "langFr": {
+    "message": "Prancūzų"
+  },
+  "langHr": {
+    "message": "Kroatų"
+  },
+  "langHu": {
+    "message": "Vengrų"
+  },
+  "langId": {
+    "message": "Indoneziečių"
+  },
+  "langIs": {
+    "message": "Islandų"
+  },
+  "langIt": {
+    "message": "Italų"
+  },
+  "langJa": {
+    "message": "Japonų"
+  },
+  "langKo": {
+    "message": "Korėjiečių"
+  },
+  "langLt": {
+    "message": "Lietuvių"
+  },
+  "langLv": {
+    "message": "Latvių"
+  },
+  "langNl": {
+    "message": "Olandų"
+  },
+  "langNo": {
+    "message": "Norvegų"
+  },
+  "langPl": {
+    "message": "Lenkų"
+  },
+  "langPt": {
+    "message": "Portugalų"
+  },
+  "langRo": {
+    "message": "Rumunų"
+  },
+  "langSk": {
+    "message": "Slovakų"
+  },
+  "langSl": {
+    "message": "Slovėnų"
+  },
+  "langSv": {
+    "message": "Švedų"
+  },
+  "langZh": {
+    "message": "Kinų"
+  },
+  "language": {
+    "message": "Kalba"
+  },
+  "notRealtime": {
+    "message": "ne realiuoju laiku"
+  },
+  "plan": {
+    "message": "Planas:"
+  },
+  "selectAutomatically": {
+    "message": "<Pasirinkti automatiškai>"
+  },
+  "sendToNekoTranslate": {
+    "message": "Paleisti NekoTranslate"
+  },
+  "settings": {
+    "message": "Nustatymai"
+  },
+  "signIn": {
+    "message": "Prisijungti"
+  },
+  "signOut": {
+    "message": "Atsijungti"
+  },
+  "targetLanguage": {
+    "message": "Tikslinė kalba"
+  },
+  "translationEngine": {
+    "message": "Vertimo variklis"
+  }
+}

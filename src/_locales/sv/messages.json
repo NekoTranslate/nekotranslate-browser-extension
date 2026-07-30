@@ -1,0 +1,134 @@
+{
+  "atLeast": {
+    "message": "minst"
+  },
+  "balance": {
+    "message": "Saldo:"
+  },
+  "cppInfo": {
+    "message": "★ cpp = krediter per sida"
+  },
+  "credits": {
+    "message": "krediter"
+  },
+  "currentDomain": {
+    "message": "Aktuell domän"
+  },
+  "deeplUnsupportedLanguage": {
+    "message": "DeepL stöder för närvarande inte det valda målspråket."
+  },
+  "extDescription": {
+    "message": "Översätt valfri manga eller serie direkt på plats och i realtid."
+  },
+  "instructionText": {
+    "message": "På webbplatsen högerklickar du på mangasidan som du vill översätta"
+  },
+  "langCs": {
+    "message": "Tjeckiska"
+  },
+  "langDa": {
+    "message": "Danska"
+  },
+  "langDe": {
+    "message": "Tyska"
+  },
+  "langEn": {
+    "message": "Engelska"
+  },
+  "langEs": {
+    "message": "Spanska"
+  },
+  "langEt": {
+    "message": "Estniska"
+  },
+  "langFi": {
+    "message": "Finska"
+  },
+  "langFr": {
+    "message": "Franska"
+  },
+  "langHr": {
+    "message": "Kroatiska"
+  },
+  "langHu": {
+    "message": "Ungerska"
+  },
+  "langId": {
+    "message": "Indonesiska"
+  },
+  "langIs": {
+    "message": "Isländska"
+  },
+  "langIt": {
+    "message": "Italienska"
+  },
+  "langJa": {
+    "message": "Japanska"
+  },
+  "langKo": {
+    "message": "Koreanska"
+  },
+  "langLt": {
+    "message": "Litauiska"
+  },
+  "langLv": {
+    "message": "Lettiska"
+  },
+  "langNl": {
+    "message": "Nederländska"
+  },
+  "langNo": {
+    "message": "Norska"
+  },
+  "langPl": {
+    "message": "Polska"
+  },
+  "langPt": {
+    "message": "Portugisiska"
+  },
+  "langRo": {
+    "message": "Rumänska"
+  },
+  "langSk": {
+    "message": "Slovakiska"
+  },
+  "langSl": {
+    "message": "Slovenska"
+  },
+  "langSv": {
+    "message": "Svenska"
+  },
+  "langZh": {
+    "message": "Kinesiska"
+  },
+  "language": {
+    "message": "Språk"
+  },
+  "notRealtime": {
+    "message": "inte i realtid"
+  },
+  "plan": {
+    "message": "Plan:"
+  },
+  "selectAutomatically": {
+    "message": "<Välj automatiskt>"
+  },
+  "sendToNekoTranslate": {
+    "message": "Anropa NekoTranslate"
+  },
+  "settings": {
+    "message": "Inställningar"
+  },
+  "signIn": {
+    "message": "Logga in"
+  },
+  "signOut": {
+    "message": "Logga ut"
+  },
+  "targetLanguage": {
+    "message": "Målspråk"
+  },
+  "translationEngine": {
+    "message": "Översättningsmotor"
+  }
+}

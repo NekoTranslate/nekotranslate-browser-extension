@@ -1,0 +1,134 @@
+{
+  "atLeast": {
+    "message": "vähemalt"
+  },
+  "balance": {
+    "message": "Saldo:"
+  },
+  "cppInfo": {
+    "message": "★ cpp = krediiti lehe kohta"
+  },
+  "credits": {
+    "message": "krediiti"
+  },
+  "currentDomain": {
+    "message": "Praegune domeen"
+  },
+  "deeplUnsupportedLanguage": {
+    "message": "DeepL ei toeta praegu valitud sihtkeelt."
+  },
+  "extDescription": {
+    "message": "Tõlgi mis tahes manga või koomiks kohapeal ja reaalajas."
+  },
+  "instructionText": {
+    "message": "Veebisaidil paremklõpsa mangalehel, mida soovid tõlkida"
+  },
+  "langCs": {
+    "message": "tšehhi"
+  },
+  "langDa": {
+    "message": "taani"
+  },
+  "langDe": {
+    "message": "saksa"
+  },
+  "langEn": {
+    "message": "inglise"
+  },
+  "langEs": {
+    "message": "hispaania"
+  },
+  "langEt": {
+    "message": "eesti"
+  },
+  "langFi": {
+    "message": "soome"
+  },
+  "langFr": {
+    "message": "prantsuse"
+  },
+  "langHr": {
+    "message": "horvaadi"
+  },
+  "langHu": {
+    "message": "ungari"
+  },
+  "langId": {
+    "message": "indoneesia"
+  },
+  "langIs": {
+    "message": "islandi"
+  },
+  "langIt": {
+    "message": "itaalia"
+  },
+  "langJa": {
+    "message": "jaapani"
+  },
+  "langKo": {
+    "message": "korea"
+  },
+  "langLt": {
+    "message": "leedu"
+  },
+  "langLv": {
+    "message": "läti"
+  },
+  "langNl": {
+    "message": "hollandi"
+  },
+  "langNo": {
+    "message": "norra"
+  },
+  "langPl": {
+    "message": "poola"
+  },
+  "langPt": {
+    "message": "portugali"
+  },
+  "langRo": {
+    "message": "rumeenia"
+  },
+  "langSk": {
+    "message": "slovaki"
+  },
+  "langSl": {
+    "message": "sloveeni"
+  },
+  "langSv": {
+    "message": "rootsi"
+  },
+  "langZh": {
+    "message": "hiina"
+  },
+  "language": {
+    "message": "Keel"
+  },
+  "notRealtime": {
+    "message": "mitte reaalajas"
+  },
+  "plan": {
+    "message": "Plaan:"
+  },
+  "selectAutomatically": {
+    "message": "<Vali automaatselt>"
+  },
+  "sendToNekoTranslate": {
+    "message": "Käivita NekoTranslate"
+  },
+  "settings": {
+    "message": "Seaded"
+  },
+  "signIn": {
+    "message": "Logi sisse"
+  },
+  "signOut": {
+    "message": "Logi välja"
+  },
+  "targetLanguage": {
+    "message": "Sihtkeel"
+  },
+  "translationEngine": {
+    "message": "Tõlkemootor"
+  }
+}

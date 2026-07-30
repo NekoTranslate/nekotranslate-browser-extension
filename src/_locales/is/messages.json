@@ -1,0 +1,134 @@
+{
+  "atLeast": {
+    "message": "að minnsta kosti"
+  },
+  "balance": {
+    "message": "Inneign:"
+  },
+  "cppInfo": {
+    "message": "★ cpp = inneignir á hverja síðu"
+  },
+  "credits": {
+    "message": "inneignir"
+  },
+  "currentDomain": {
+    "message": "Núverandi lén"
+  },
+  "deeplUnsupportedLanguage": {
+    "message": "DeepL styður ekki sem stendur valið markmál."
+  },
+  "extDescription": {
+    "message": "Þýddu hvaða manga eða teiknimyndasögu sem er á staðnum og í rauntíma."
+  },
+  "instructionText": {
+    "message": "Á vefsíðunni skaltu hægrismella á mangasíðuna sem þú vilt þýða"
+  },
+  "langCs": {
+    "message": "tékkneska"
+  },
+  "langDa": {
+    "message": "danska"
+  },
+  "langDe": {
+    "message": "þýska"
+  },
+  "langEn": {
+    "message": "enska"
+  },
+  "langEs": {
+    "message": "spænska"
+  },
+  "langEt": {
+    "message": "eistneska"
+  },
+  "langFi": {
+    "message": "finnska"
+  },
+  "langFr": {
+    "message": "franska"
+  },
+  "langHr": {
+    "message": "króatíska"
+  },
+  "langHu": {
+    "message": "ungverska"
+  },
+  "langId": {
+    "message": "indónesíska"
+  },
+  "langIs": {
+    "message": "íslenska"
+  },
+  "langIt": {
+    "message": "ítalska"
+  },
+  "langJa": {
+    "message": "japanska"
+  },
+  "langKo": {
+    "message": "kóreska"
+  },
+  "langLt": {
+    "message": "litháíska"
+  },
+  "langLv": {
+    "message": "lettneska"
+  },
+  "langNl": {
+    "message": "hollenska"
+  },
+  "langNo": {
+    "message": "norska"
+  },
+  "langPl": {
+    "message": "pólska"
+  },
+  "langPt": {
+    "message": "portúgalska"
+  },
+  "langRo": {
+    "message": "rúmenska"
+  },
+  "langSk": {
+    "message": "slóvakíska"
+  },
+  "langSl": {
+    "message": "slóvenska"
+  },
+  "langSv": {
+    "message": "sænska"
+  },
+  "langZh": {
+    "message": "kínverska"
+  },
+  "language": {
+    "message": "Tungumál"
+  },
+  "notRealtime": {
+    "message": "ekki í rauntíma"
+  },
+  "plan": {
+    "message": "Áætlun:"
+  },
+  "selectAutomatically": {
+    "message": "<Velja sjálfkrafa>"
+  },
+  "sendToNekoTranslate": {
+    "message": "Kalla á NekoTranslate"
+  },
+  "settings": {
+    "message": "Stillingar"
+  },
+  "signIn": {
+    "message": "Skrá inn"
+  },
+  "signOut": {
+    "message": "Skrá út"
+  },
+  "targetLanguage": {
+    "message": "Markmál"
+  },
+  "translationEngine": {
+    "message": "Þýðingarvél"
+  }
+}

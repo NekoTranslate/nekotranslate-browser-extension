@@ -2,7 +2,8 @@
   "manifest_version": 2,
   "name": "NekoTranslate",
   "version": "0.0.2",
-  "description": "Translate any manga or comic in place and in real time.",
+  "description": "__MSG_extDescription__",
+  "default_locale": "en",
   "permissions": [
     "activeTab",
     "contextMenus",

@@ -1,0 +1,134 @@
+{
+  "atLeast": {
+    "message": "vsaj"
+  },
+  "balance": {
+    "message": "Stanje:"
+  },
+  "cppInfo": {
+    "message": "★ cpp = krediti na stran"
+  },
+  "credits": {
+    "message": "krediti"
+  },
+  "currentDomain": {
+    "message": "Trenutna domena"
+  },
+  "deeplUnsupportedLanguage": {
+    "message": "DeepL trenutno ne podpira izbranega ciljnega jezika."
+  },
+  "extDescription": {
+    "message": "Prevedite katero koli mango ali strip neposredno in v realnem času."
+  },
+  "instructionText": {
+    "message": "Na spletni strani z desno tipko miške kliknite stran mange, ki jo želite prevesti"
+  },
+  "langCs": {
+    "message": "češčina"
+  },
+  "langDa": {
+    "message": "danščina"
+  },
+  "langDe": {
+    "message": "nemščina"
+  },
+  "langEn": {
+    "message": "angleščina"
+  },
+  "langEs": {
+    "message": "španščina"
+  },
+  "langEt": {
+    "message": "estonščina"
+  },
+  "langFi": {
+    "message": "finščina"
+  },
+  "langFr": {
+    "message": "francoščina"
+  },
+  "langHr": {
+    "message": "hrvaščina"
+  },
+  "langHu": {
+    "message": "madžarščina"
+  },
+  "langId": {
+    "message": "indonezijščina"
+  },
+  "langIs": {
+    "message": "islandščina"
+  },
+  "langIt": {
+    "message": "italijanščina"
+  },
+  "langJa": {
+    "message": "japonščina"
+  },
+  "langKo": {
+    "message": "korejščina"
+  },
+  "langLt": {
+    "message": "litovščina"
+  },
+  "langLv": {
+    "message": "latvijščina"
+  },
+  "langNl": {
+    "message": "nizozemščina"
+  },
+  "langNo": {
+    "message": "norveščina"
+  },
+  "langPl": {
+    "message": "poljščina"
+  },
+  "langPt": {
+    "message": "portugalščina"
+  },
+  "langRo": {
+    "message": "romunščina"
+  },
+  "langSk": {
+    "message": "slovaščina"
+  },
+  "langSl": {
+    "message": "slovenščina"
+  },
+  "langSv": {
+    "message": "švedščina"
+  },
+  "langZh": {
+    "message": "kitajščina"
+  },
+  "language": {
+    "message": "Jezik"
+  },
+  "notRealtime": {
+    "message": "ne v realnem času"
+  },
+  "plan": {
+    "message": "Načrt:"
+  },
+  "selectAutomatically": {
+    "message": "<Izberi samodejno>"
+  },
+  "sendToNekoTranslate": {
+    "message": "Pokliči NekoTranslate"
+  },
+  "settings": {
+    "message": "Nastavitve"
+  },
+  "signIn": {
+    "message": "Prijava"
+  },
+  "signOut": {
+    "message": "Odjava"
+  },
+  "targetLanguage": {
+    "message": "Ciljni jezik"
+  },
+  "translationEngine": {
+    "message": "Prevajalski mehanizem"
+  }
+}

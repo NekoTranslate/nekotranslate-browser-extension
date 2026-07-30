@@ -1,0 +1,134 @@
+{
+  "atLeast": {
+    "message": "mindestens"
+  },
+  "balance": {
+    "message": "Guthaben:"
+  },
+  "cppInfo": {
+    "message": "★ cpp = Credits pro Seite"
+  },
+  "credits": {
+    "message": "Credits"
+  },
+  "currentDomain": {
+    "message": "Aktuelle Domain"
+  },
+  "deeplUnsupportedLanguage": {
+    "message": "DeepL unterstützt die ausgewählte Zielsprache derzeit nicht."
+  },
+  "extDescription": {
+    "message": "Übersetzen Sie jeden Manga oder Comic direkt vor Ort und in Echtzeit."
+  },
+  "instructionText": {
+    "message": "Klicken Sie auf der Website mit der rechten Maustaste auf die Manga-Seite, die Sie übersetzen möchten"
+  },
+  "langCs": {
+    "message": "Tschechisch"
+  },
+  "langDa": {
+    "message": "Dänisch"
+  },
+  "langDe": {
+    "message": "Deutsch"
+  },
+  "langEn": {
+    "message": "Englisch"
+  },
+  "langEs": {
+    "message": "Spanisch"
+  },
+  "langEt": {
+    "message": "Estnisch"
+  },
+  "langFi": {
+    "message": "Finnisch"
+  },
+  "langFr": {
+    "message": "Französisch"
+  },
+  "langHr": {
+    "message": "Kroatisch"
+  },
+  "langHu": {
+    "message": "Ungarisch"
+  },
+  "langId": {
+    "message": "Indonesisch"
+  },
+  "langIs": {
+    "message": "Isländisch"
+  },
+  "langIt": {
+    "message": "Italienisch"
+  },
+  "langJa": {
+    "message": "Japanisch"
+  },
+  "langKo": {
+    "message": "Koreanisch"
+  },
+  "langLt": {
+    "message": "Litauisch"
+  },
+  "langLv": {
+    "message": "Lettisch"
+  },
+  "langNl": {
+    "message": "Niederländisch"
+  },
+  "langNo": {
+    "message": "Norwegisch"
+  },
+  "langPl": {
+    "message": "Polnisch"
+  },
+  "langPt": {
+    "message": "Portugiesisch"
+  },
+  "langRo": {
+    "message": "Rumänisch"
+  },
+  "langSk": {
+    "message": "Slowakisch"
+  },
+  "langSl": {
+    "message": "Slowenisch"
+  },
+  "langSv": {
+    "message": "Schwedisch"
+  },
+  "langZh": {
+    "message": "Chinesisch"
+  },
+  "language": {
+    "message": "Sprache"
+  },
+  "notRealtime": {
+    "message": "nicht in Echtzeit"
+  },
+  "plan": {
+    "message": "Tarif:"
+  },
+  "selectAutomatically": {
+    "message": "<Automatisch auswählen>"
+  },
+  "sendToNekoTranslate": {
+    "message": "NekoTranslate aufrufen"
+  },
+  "settings": {
+    "message": "Einstellungen"
+  },
+  "signIn": {
+    "message": "Anmelden"
+  },
+  "signOut": {
+    "message": "Abmelden"
+  },
+  "targetLanguage": {
+    "message": "Zielsprache"
+  },
+  "translationEngine": {
+    "message": "Übersetzungsdienst"
+  }
+}

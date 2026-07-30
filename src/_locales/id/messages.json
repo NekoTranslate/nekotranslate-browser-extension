@@ -1,0 +1,134 @@
+{
+  "atLeast": {
+    "message": "setidaknya"
+  },
+  "balance": {
+    "message": "Saldo:"
+  },
+  "cppInfo": {
+    "message": "★ cpp = kredit per halaman"
+  },
+  "credits": {
+    "message": "kredit"
+  },
+  "currentDomain": {
+    "message": "Domain Saat Ini"
+  },
+  "deeplUnsupportedLanguage": {
+    "message": "DeepL saat ini tidak mendukung bahasa target yang dipilih."
+  },
+  "extDescription": {
+    "message": "Terjemahkan manga atau komik apa pun langsung di tempat dan secara real-time."
+  },
+  "instructionText": {
+    "message": "Di situs web, klik kanan pada halaman manga yang ingin Anda terjemahkan"
+  },
+  "langCs": {
+    "message": "Ceko"
+  },
+  "langDa": {
+    "message": "Denmark"
+  },
+  "langDe": {
+    "message": "Jerman"
+  },
+  "langEn": {
+    "message": "Inggris"
+  },
+  "langEs": {
+    "message": "Spanyol"
+  },
+  "langEt": {
+    "message": "Estonia"
+  },
+  "langFi": {
+    "message": "Finlandia"
+  },
+  "langFr": {
+    "message": "Prancis"
+  },
+  "langHr": {
+    "message": "Kroasia"
+  },
+  "langHu": {
+    "message": "Hungaria"
+  },
+  "langId": {
+    "message": "Indonesia"
+  },
+  "langIs": {
+    "message": "Islandia"
+  },
+  "langIt": {
+    "message": "Italia"
+  },
+  "langJa": {
+    "message": "Jepang"
+  },
+  "langKo": {
+    "message": "Korea"
+  },
+  "langLt": {
+    "message": "Lituania"
+  },
+  "langLv": {
+    "message": "Latvia"
+  },
+  "langNl": {
+    "message": "Belanda"
+  },
+  "langNo": {
+    "message": "Norwegia"
+  },
+  "langPl": {
+    "message": "Polandia"
+  },
+  "langPt": {
+    "message": "Portugis"
+  },
+  "langRo": {
+    "message": "Rumania"
+  },
+  "langSk": {
+    "message": "Slovakia"
+  },
+  "langSl": {
+    "message": "Slovenia"
+  },
+  "langSv": {
+    "message": "Swedia"
+  },
+  "langZh": {
+    "message": "Tionghoa"
+  },
+  "language": {
+    "message": "Bahasa"
+  },
+  "notRealtime": {
+    "message": "tidak real-time"
+  },
+  "plan": {
+    "message": "Paket:"
+  },
+  "selectAutomatically": {
+    "message": "<Pilih secara otomatis>"
+  },
+  "sendToNekoTranslate": {
+    "message": "Panggil NekoTranslate"
+  },
+  "settings": {
+    "message": "Pengaturan"
+  },
+  "signIn": {
+    "message": "Masuk"
+  },
+  "signOut": {
+    "message": "Keluar"
+  },
+  "targetLanguage": {
+    "message": "Bahasa Target"
+  },
+  "translationEngine": {
+    "message": "Mesin Terjemahan"
+  }
+}

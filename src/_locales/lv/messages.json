@@ -1,0 +1,134 @@
+{
+  "atLeast": {
+    "message": "vismaz"
+  },
+  "balance": {
+    "message": "Bilance:"
+  },
+  "cppInfo": {
+    "message": "★ cpp = kredīti uz lapu"
+  },
+  "credits": {
+    "message": "kredīti"
+  },
+  "currentDomain": {
+    "message": "Pašreizējais domēns"
+  },
+  "deeplUnsupportedLanguage": {
+    "message": "DeepL pašlaik neatbalsta izvēlēto mērķa valodu."
+  },
+  "extDescription": {
+    "message": "Tulkojiet jebkuru mangu vai komiksu uz vietas un reāllaikā."
+  },
+  "instructionText": {
+    "message": "Vietnē ar peles labo pogu noklikšķiniet uz mangas lapas, kuru vēlaties tulkot"
+  },
+  "langCs": {
+    "message": "Čehu"
+  },
+  "langDa": {
+    "message": "Dāņu"
+  },
+  "langDe": {
+    "message": "Vācu"
+  },
+  "langEn": {
+    "message": "Angļu"
+  },
+  "langEs": {
+    "message": "Spāņu"
+  },
+  "langEt": {
+    "message": "Igauņu"
+  },
+  "langFi": {
+    "message": "Somu"
+  },
+  "langFr": {
+    "message": "Franču"
+  },
+  "langHr": {
+    "message": "Horvātu"
+  },
+  "langHu": {
+    "message": "Ungāru"
+  },
+  "langId": {
+    "message": "Indonēziešu"
+  },
+  "langIs": {
+    "message": "Islandiešu"
+  },
+  "langIt": {
+    "message": "Itāļu"
+  },
+  "langJa": {
+    "message": "Japāņu"
+  },
+  "langKo": {
+    "message": "Korejiešu"
+  },
+  "langLt": {
+    "message": "Lietuviešu"
+  },
+  "langLv": {
+    "message": "Latviešu"
+  },
+  "langNl": {
+    "message": "Nīderlandiešu"
+  },
+  "langNo": {
+    "message": "Norvēģu"
+  },
+  "langPl": {
+    "message": "Poļu"
+  },
+  "langPt": {
+    "message": "Portugāļu"
+  },
+  "langRo": {
+    "message": "Rumāņu"
+  },
+  "langSk": {
+    "message": "Slovāku"
+  },
+  "langSl": {
+    "message": "Slovēņu"
+  },
+  "langSv": {
+    "message": "Zviedru"
+  },
+  "langZh": {
+    "message": "Ķīniešu"
+  },
+  "language": {
+    "message": "Valoda"
+  },
+  "notRealtime": {
+    "message": "nav reāllaikā"
+  },
+  "plan": {
+    "message": "Plāns:"
+  },
+  "selectAutomatically": {
+    "message": "<Izvēlēties automātiski>"
+  },
+  "sendToNekoTranslate": {
+    "message": "Izsaukt NekoTranslate"
+  },
+  "settings": {
+    "message": "Iestatījumi"
+  },
+  "signIn": {
+    "message": "Pierakstīties"
+  },
+  "signOut": {
+    "message": "Izrakstīties"
+  },
+  "targetLanguage": {
+    "message": "Mērķa valoda"
+  },
+  "translationEngine": {
+    "message": "Tulkošanas dzinējs"
+  }
+}

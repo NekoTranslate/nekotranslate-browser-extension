@@ -1,0 +1,134 @@
+{
+  "atLeast": {
+    "message": "至少"
+  },
+  "balance": {
+    "message": "余额："
+  },
+  "cppInfo": {
+    "message": "★ cpp = 每页点数"
+  },
+  "credits": {
+    "message": "点数"
+  },
+  "currentDomain": {
+    "message": "当前域名"
+  },
+  "deeplUnsupportedLanguage": {
+    "message": "DeepL 目前不支持所选目标语言。"
+  },
+  "extDescription": {
+    "message": "即时翻译任何漫画或连环画。"
+  },
+  "instructionText": {
+    "message": "在网站上，右键单击你要翻译的漫画页面"
+  },
+  "langCs": {
+    "message": "捷克语"
+  },
+  "langDa": {
+    "message": "丹麦语"
+  },
+  "langDe": {
+    "message": "德语"
+  },
+  "langEn": {
+    "message": "英语"
+  },
+  "langEs": {
+    "message": "西班牙语"
+  },
+  "langEt": {
+    "message": "爱沙尼亚语"
+  },
+  "langFi": {
+    "message": "芬兰语"
+  },
+  "langFr": {
+    "message": "法语"
+  },
+  "langHr": {
+    "message": "克罗地亚语"
+  },
+  "langHu": {
+    "message": "匈牙利语"
+  },
+  "langId": {
+    "message": "印尼语"
+  },
+  "langIs": {
+    "message": "冰岛语"
+  },
+  "langIt": {
+    "message": "意大利语"
+  },
+  "langJa": {
+    "message": "日语"
+  },
+  "langKo": {
+    "message": "韩语"
+  },
+  "langLt": {
+    "message": "立陶宛语"
+  },
+  "langLv": {
+    "message": "拉脱维亚语"
+  },
+  "langNl": {
+    "message": "荷兰语"
+  },
+  "langNo": {
+    "message": "挪威语"
+  },
+  "langPl": {
+    "message": "波兰语"
+  },
+  "langPt": {
+    "message": "葡萄牙语"
+  },
+  "langRo": {
+    "message": "罗马尼亚语"
+  },
+  "langSk": {
+    "message": "斯洛伐克语"
+  },
+  "langSl": {
+    "message": "斯洛文尼亚语"
+  },
+  "langSv": {
+    "message": "瑞典语"
+  },
+  "langZh": {
+    "message": "中文"
+  },
+  "language": {
+    "message": "语言"
+  },
+  "notRealtime": {
+    "message": "非实时"
+  },
+  "plan": {
+    "message": "计划："
+  },
+  "selectAutomatically": {
+    "message": "<自动选择>"
+  },
+  "sendToNekoTranslate": {
+    "message": "调用 NekoTranslate"
+  },
+  "settings": {
+    "message": "设置"
+  },
+  "signIn": {
+    "message": "登录"
+  },
+  "signOut": {
+    "message": "退出登录"
+  },
+  "targetLanguage": {
+    "message": "目标语言"
+  },
+  "translationEngine": {
+    "message": "翻译引擎"
+  }
+}

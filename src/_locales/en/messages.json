@@ -1,0 +1,134 @@
+{
+  "atLeast": {
+    "message": "at least"
+  },
+  "balance": {
+    "message": "Balance:"
+  },
+  "cppInfo": {
+    "message": "★ cpp = credits per page"
+  },
+  "credits": {
+    "message": "credits"
+  },
+  "currentDomain": {
+    "message": "Current Domain"
+  },
+  "deeplUnsupportedLanguage": {
+    "message": "DeepL does not currently support the selected target language."
+  },
+  "extDescription": {
+    "message": "Translate any manga or comic in place and in real time."
+  },
+  "instructionText": {
+    "message": "On the website, right-click the manga page you want to translate"
+  },
+  "langCs": {
+    "message": "Czech"
+  },
+  "langDa": {
+    "message": "Danish"
+  },
+  "langDe": {
+    "message": "German"
+  },
+  "langEn": {
+    "message": "English"
+  },
+  "langEs": {
+    "message": "Spanish"
+  },
+  "langEt": {
+    "message": "Estonian"
+  },
+  "langFi": {
+    "message": "Finnish"
+  },
+  "langFr": {
+    "message": "French"
+  },
+  "langHr": {
+    "message": "Croatian"
+  },
+  "langHu": {
+    "message": "Hungarian"
+  },
+  "langId": {
+    "message": "Indonesian"
+  },
+  "langIs": {
+    "message": "Icelandic"
+  },
+  "langIt": {
+    "message": "Italian"
+  },
+  "langJa": {
+    "message": "Japanese"
+  },
+  "langKo": {
+    "message": "Korean"
+  },
+  "langLt": {
+    "message": "Lithuanian"
+  },
+  "langLv": {
+    "message": "Latvian"
+  },
+  "langNl": {
+    "message": "Dutch"
+  },
+  "langNo": {
+    "message": "Norwegian"
+  },
+  "langPl": {
+    "message": "Polish"
+  },
+  "langPt": {
+    "message": "Portuguese"
+  },
+  "langRo": {
+    "message": "Romanian"
+  },
+  "langSk": {
+    "message": "Slovak"
+  },
+  "langSl": {
+    "message": "Slovenian"
+  },
+  "langSv": {
+    "message": "Swedish"
+  },
+  "langZh": {
+    "message": "Chinese"
+  },
+  "language": {
+    "message": "Language"
+  },
+  "notRealtime": {
+    "message": "not real-time"
+  },
+  "plan": {
+    "message": "Plan:"
+  },
+  "selectAutomatically": {
+    "message": "<Select automatically>"
+  },
+  "sendToNekoTranslate": {
+    "message": "Invoke NekoTranslate"
+  },
+  "settings": {
+    "message": "Settings"
+  },
+  "signIn": {
+    "message": "Sign In"
+  },
+  "signOut": {
+    "message": "Sign Out"
+  },
+  "targetLanguage": {
+    "message": "Target Language"
+  },
+  "translationEngine": {
+    "message": "Translation Engine"
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "atLeast": {
+    "message": "aspoň"
+  },
+  "balance": {
+    "message": "Zostatok:"
+  },
+  "cppInfo": {
+    "message": "★ cpp = kredity na stranu"
+  },
+  "credits": {
+    "message": "kredity"
+  },
+  "currentDomain": {
+    "message": "Aktuálna doména"
+  },
+  "deeplUnsupportedLanguage": {
+    "message": "DeepL momentálne nepodporuje vybraný cieľový jazyk."
+  },
+  "extDescription": {
+    "message": "Prekladajte akúkoľvek mangu alebo komiks priamo na mieste a v reálnom čase."
+  },
+  "instructionText": {
+    "message": "Na webovej stránke kliknite pravým tlačidlom myši na stranu mangy, ktorú chcete preložiť"
+  },
+  "langCs": {
+    "message": "Čeština"
+  },
+  "langDa": {
+    "message": "Dánčina"
+  },
+  "langDe": {
+    "message": "Nemčina"
+  },
+  "langEn": {
+    "message": "Angličtina"
+  },
+  "langEs": {
+    "message": "Španielčina"
+  },
+  "langEt": {
+    "message": "Estónčina"
+  },
+  "langFi": {
+    "message": "Fínčina"
+  },
+  "langFr": {
+    "message": "Francúzština"
+  },
+  "langHr": {
+    "message": "Chorvátčina"
+  },
+  "langHu": {
+    "message": "Maďarčina"
+  },
+  "langId": {
+    "message": "Indonézština"
+  },
+  "langIs": {
+    "message": "Islandčina"
+  },
+  "langIt": {
+    "message": "Taliančina"
+  },
+  "langJa": {
+    "message": "Japončina"
+  },
+  "langKo": {
+    "message": "Kórejčina"
+  },
+  "langLt": {
+    "message": "Litovčina"
+  },
+  "langLv": {
+    "message": "Lotyština"
+  },
+  "langNl": {
+    "message": "Holandčina"
+  },
+  "langNo": {
+    "message": "Nórčina"
+  },
+  "langPl": {
+    "message": "Poľština"
+  },
+  "langPt": {
+    "message": "Portugalčina"
+  },
+  "langRo": {
+    "message": "Rumunčina"
+  },
+  "langSk": {
+    "message": "Slovenčina"
+  },
+  "langSl": {
+    "message": "Slovinčina"
+  },
+  "langSv": {
+    "message": "Švédčina"
+  },
+  "langZh": {
+    "message": "Čínština"
+  },
+  "language": {
+    "message": "Jazyk"
+  },
+  "notRealtime": {
+    "message": "nie v reálnom čase"
+  },
+  "plan": {
+    "message": "Plán:"
+  },
+  "selectAutomatically": {
+    "message": "<Vybrať automaticky>"
+  },
+  "sendToNekoTranslate": {
+    "message": "Vyvolať NekoTranslate"
+  },
+  "settings": {
+    "message": "Nastavenia"
+  },
+  "signIn": {
+    "message": "Prihlásiť sa"
+  },
+  "signOut": {
+    "message": "Odhlásiť sa"
+  },
+  "targetLanguage": {
+    "message": "Cieľový jazyk"
+  },
+  "translationEngine": {
+    "message": "Prekladový nástroj"
+  }
+}

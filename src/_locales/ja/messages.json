@@ -1,0 +1,134 @@
+{
+  "atLeast": {
+    "message": "少なくとも"
+  },
+  "balance": {
+    "message": "残高:"
+  },
+  "cppInfo": {
+    "message": "★ cpp = 1ページあたりのクレジット数"
+  },
+  "credits": {
+    "message": "クレジット"
+  },
+  "currentDomain": {
+    "message": "現在のドメイン"
+  },
+  "deeplUnsupportedLanguage": {
+    "message": "DeepL は現在、選択したターゲット言語をサポートしていません。"
+  },
+  "extDescription": {
+    "message": "マンガやコミックをその場でリアルタイムに翻訳します。"
+  },
+  "instructionText": {
+    "message": "サイトで、翻訳したいマンガのページを右クリックしてください"
+  },
+  "langCs": {
+    "message": "チェコ語"
+  },
+  "langDa": {
+    "message": "デンマーク語"
+  },
+  "langDe": {
+    "message": "ドイツ語"
+  },
+  "langEn": {
+    "message": "英語"
+  },
+  "langEs": {
+    "message": "スペイン語"
+  },
+  "langEt": {
+    "message": "エストニア語"
+  },
+  "langFi": {
+    "message": "フィンランド語"
+  },
+  "langFr": {
+    "message": "フランス語"
+  },
+  "langHr": {
+    "message": "クロアチア語"
+  },
+  "langHu": {
+    "message": "ハンガリー語"
+  },
+  "langId": {
+    "message": "インドネシア語"
+  },
+  "langIs": {
+    "message": "アイスランド語"
+  },
+  "langIt": {
+    "message": "イタリア語"
+  },
+  "langJa": {
+    "message": "日本語"
+  },
+  "langKo": {
+    "message": "韓国語"
+  },
+  "langLt": {
+    "message": "リトアニア語"
+  },
+  "langLv": {
+    "message": "ラトビア語"
+  },
+  "langNl": {
+    "message": "オランダ語"
+  },
+  "langNo": {
+    "message": "ノルウェー語"
+  },
+  "langPl": {
+    "message": "ポーランド語"
+  },
+  "langPt": {
+    "message": "ポルトガル語"
+  },
+  "langRo": {
+    "message": "ルーマニア語"
+  },
+  "langSk": {
+    "message": "スロバキア語"
+  },
+  "langSl": {
+    "message": "スロベニア語"
+  },
+  "langSv": {
+    "message": "スウェーデン語"
+  },
+  "langZh": {
+    "message": "中国語"
+  },
+  "language": {
+    "message": "言語"
+  },
+  "notRealtime": {
+    "message": "非リアルタイム"
+  },
+  "plan": {
+    "message": "プラン:"
+  },
+  "selectAutomatically": {
+    "message": "<自動選択>"
+  },
+  "sendToNekoTranslate": {
+    "message": "NekoTranslateを呼び出す"
+  },
+  "settings": {
+    "message": "設定"
+  },
+  "signIn": {
+    "message": "サインイン"
+  },
+  "signOut": {
+    "message": "サインアウト"
+  },
+  "targetLanguage": {
+    "message": "ターゲット言語"
+  },
+  "translationEngine": {
+    "message": "翻訳エンジン"
+  }
+}

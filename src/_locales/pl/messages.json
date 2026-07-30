@@ -1,0 +1,134 @@
+{
+  "atLeast": {
+    "message": "co najmniej"
+  },
+  "balance": {
+    "message": "Saldo:"
+  },
+  "cppInfo": {
+    "message": "★ cpp = kredyty na stronę"
+  },
+  "credits": {
+    "message": "kredyty"
+  },
+  "currentDomain": {
+    "message": "Aktualna domena"
+  },
+  "deeplUnsupportedLanguage": {
+    "message": "DeepL obecnie nie obsługuje wybranego języka docelowego."
+  },
+  "extDescription": {
+    "message": "Tłumacz dowolną mangę lub komiks na miejscu i w czasie rzeczywistym."
+  },
+  "instructionText": {
+    "message": "Na stronie internetowej kliknij prawym przyciskiem myszy na stronie mangi, którą chcesz przetłumaczyć"
+  },
+  "langCs": {
+    "message": "czeski"
+  },
+  "langDa": {
+    "message": "duński"
+  },
+  "langDe": {
+    "message": "niemiecki"
+  },
+  "langEn": {
+    "message": "angielski"
+  },
+  "langEs": {
+    "message": "hiszpański"
+  },
+  "langEt": {
+    "message": "estoński"
+  },
+  "langFi": {
+    "message": "fiński"
+  },
+  "langFr": {
+    "message": "francuski"
+  },
+  "langHr": {
+    "message": "chorwacki"
+  },
+  "langHu": {
+    "message": "węgierski"
+  },
+  "langId": {
+    "message": "indonezyjski"
+  },
+  "langIs": {
+    "message": "islandzki"
+  },
+  "langIt": {
+    "message": "włoski"
+  },
+  "langJa": {
+    "message": "japoński"
+  },
+  "langKo": {
+    "message": "koreański"
+  },
+  "langLt": {
+    "message": "litewski"
+  },
+  "langLv": {
+    "message": "łotewski"
+  },
+  "langNl": {
+    "message": "niderlandzki"
+  },
+  "langNo": {
+    "message": "norweski"
+  },
+  "langPl": {
+    "message": "polski"
+  },
+  "langPt": {
+    "message": "portugalski"
+  },
+  "langRo": {
+    "message": "rumuński"
+  },
+  "langSk": {
+    "message": "słowacki"
+  },
+  "langSl": {
+    "message": "słoweński"
+  },
+  "langSv": {
+    "message": "szwedzki"
+  },
+  "langZh": {
+    "message": "chiński"
+  },
+  "language": {
+    "message": "Język"
+  },
+  "notRealtime": {
+    "message": "nie w czasie rzeczywistym"
+  },
+  "plan": {
+    "message": "Plan:"
+  },
+  "selectAutomatically": {
+    "message": "<Wybierz automatycznie>"
+  },
+  "sendToNekoTranslate": {
+    "message": "Uruchom NekoTranslate"
+  },
+  "settings": {
+    "message": "Ustawienia"
+  },
+  "signIn": {
+    "message": "Zaloguj się"
+  },
+  "signOut": {
+    "message": "Wyloguj się"
+  },
+  "targetLanguage": {
+    "message": "Język docelowy"
+  },
+  "translationEngine": {
+    "message": "Silnik tłumaczenia"
+  }
+}

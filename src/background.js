@@ -1,7 +1,7 @@
 import browser from 'webextension-polyfill';
 import getTokenUtil from './get-token-util';
 import sendReqUtil from './send-req-util';
-import locales from './locales/locales';
+import locales from './locales';
 import config from './config';
 const rebuildCtxMenu=async ()=>{
   await browser.contextMenus.removeAll();

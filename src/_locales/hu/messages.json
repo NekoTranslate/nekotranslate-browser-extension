@@ -1,0 +1,134 @@
+{
+  "atLeast": {
+    "message": "legalább"
+  },
+  "balance": {
+    "message": "Egyenleg:"
+  },
+  "cppInfo": {
+    "message": "★ cpp = kredit oldalanként"
+  },
+  "credits": {
+    "message": "kreditek"
+  },
+  "currentDomain": {
+    "message": "Jelenlegi domain"
+  },
+  "deeplUnsupportedLanguage": {
+    "message": "A DeepL jelenleg nem támogatja a kiválasztott célnyelvet."
+  },
+  "extDescription": {
+    "message": "Fordítson le bármilyen mangát vagy képregényt helyben és valós időben."
+  },
+  "instructionText": {
+    "message": "A weboldalon kattintson a jobb gombbal a lefordítani kívánt manga oldalra"
+  },
+  "langCs": {
+    "message": "Cseh"
+  },
+  "langDa": {
+    "message": "Dán"
+  },
+  "langDe": {
+    "message": "Német"
+  },
+  "langEn": {
+    "message": "Angol"
+  },
+  "langEs": {
+    "message": "Spanyol"
+  },
+  "langEt": {
+    "message": "Észt"
+  },
+  "langFi": {
+    "message": "Finn"
+  },
+  "langFr": {
+    "message": "Francia"
+  },
+  "langHr": {
+    "message": "Horvát"
+  },
+  "langHu": {
+    "message": "Magyar"
+  },
+  "langId": {
+    "message": "Indonéz"
+  },
+  "langIs": {
+    "message": "Izlandi"
+  },
+  "langIt": {
+    "message": "Olasz"
+  },
+  "langJa": {
+    "message": "Japán"
+  },
+  "langKo": {
+    "message": "Koreai"
+  },
+  "langLt": {
+    "message": "Litván"
+  },
+  "langLv": {
+    "message": "Lett"
+  },
+  "langNl": {
+    "message": "Holland"
+  },
+  "langNo": {
+    "message": "Norvég"
+  },
+  "langPl": {
+    "message": "Lengyel"
+  },
+  "langPt": {
+    "message": "Portugál"
+  },
+  "langRo": {
+    "message": "Román"
+  },
+  "langSk": {
+    "message": "Szlovák"
+  },
+  "langSl": {
+    "message": "Szlovén"
+  },
+  "langSv": {
+    "message": "Svéd"
+  },
+  "langZh": {
+    "message": "Kínai"
+  },
+  "language": {
+    "message": "Nyelv"
+  },
+  "notRealtime": {
+    "message": "nem valós idejű"
+  },
+  "plan": {
+    "message": "Csomag:"
+  },
+  "selectAutomatically": {
+    "message": "<Automatikus kiválasztás>"
+  },
+  "sendToNekoTranslate": {
+    "message": "NekoTranslate meghívása"
+  },
+  "settings": {
+    "message": "Beállítások"
+  },
+  "signIn": {
+    "message": "Bejelentkezés"
+  },
+  "signOut": {
+    "message": "Kijelentkezés"
+  },
+  "targetLanguage": {
+    "message": "Célnyelv"
+  },
+  "translationEngine": {
+    "message": "Fordítómotor"
+  }
+}

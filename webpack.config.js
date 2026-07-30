@@ -43,6 +43,10 @@ module.exports={
           to: 'popup.html',
         },
         {
+          from: './src/_locales',
+          to: '_locales',
+        },
+        {
           from: './assets/images/*.png',
           to: '[name][ext]',
         },

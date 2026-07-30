@@ -1,0 +1,134 @@
+{
+  "atLeast": {
+    "message": "vähintään"
+  },
+  "balance": {
+    "message": "Saldo:"
+  },
+  "cppInfo": {
+    "message": "★ cpp = krediittejä sivua kohti"
+  },
+  "credits": {
+    "message": "Krediitit"
+  },
+  "currentDomain": {
+    "message": "Nykyinen verkkotunnus"
+  },
+  "deeplUnsupportedLanguage": {
+    "message": "DeepL ei tällä hetkellä tue valittua kohdekieltä."
+  },
+  "extDescription": {
+    "message": "Käännä mitä tahansa mangaa tai sarjakuvaa suoraan ja reaaliajassa."
+  },
+  "instructionText": {
+    "message": "Sivustolla napsauta hiiren oikealla painikkeella sitä mangasivua, jonka haluat kääntää"
+  },
+  "langCs": {
+    "message": "Tšekki"
+  },
+  "langDa": {
+    "message": "Tanska"
+  },
+  "langDe": {
+    "message": "Saksa"
+  },
+  "langEn": {
+    "message": "Englanti"
+  },
+  "langEs": {
+    "message": "Espanja"
+  },
+  "langEt": {
+    "message": "Viro"
+  },
+  "langFi": {
+    "message": "Suomi"
+  },
+  "langFr": {
+    "message": "Ranska"
+  },
+  "langHr": {
+    "message": "Kroatia"
+  },
+  "langHu": {
+    "message": "Unkari"
+  },
+  "langId": {
+    "message": "Indonesia"
+  },
+  "langIs": {
+    "message": "Islanti"
+  },
+  "langIt": {
+    "message": "Italia"
+  },
+  "langJa": {
+    "message": "Japani"
+  },
+  "langKo": {
+    "message": "Korea"
+  },
+  "langLt": {
+    "message": "Liettua"
+  },
+  "langLv": {
+    "message": "Latvia"
+  },
+  "langNl": {
+    "message": "Hollanti"
+  },
+  "langNo": {
+    "message": "Norja"
+  },
+  "langPl": {
+    "message": "Puola"
+  },
+  "langPt": {
+    "message": "Portugali"
+  },
+  "langRo": {
+    "message": "Romania"
+  },
+  "langSk": {
+    "message": "Slovakki"
+  },
+  "langSl": {
+    "message": "Sloveeni"
+  },
+  "langSv": {
+    "message": "Ruotsi"
+  },
+  "langZh": {
+    "message": "Kiina"
+  },
+  "language": {
+    "message": "Kieli"
+  },
+  "notRealtime": {
+    "message": "ei reaaliaikainen"
+  },
+  "plan": {
+    "message": "Suunnitelma:"
+  },
+  "selectAutomatically": {
+    "message": "<Valitse automaattisesti>"
+  },
+  "sendToNekoTranslate": {
+    "message": "Kutsu NekoTranslate"
+  },
+  "settings": {
+    "message": "Asetukset"
+  },
+  "signIn": {
+    "message": "Kirjaudu sisään"
+  },
+  "signOut": {
+    "message": "Kirjaudu ulos"
+  },
+  "targetLanguage": {
+    "message": "Kohdekieli"
+  },
+  "translationEngine": {
+    "message": "Käännösmoottori"
+  }
+}
