@@ -21,11 +21,17 @@ const main=async ()=>{
   const tgtLangElem=document.getElementById('selectTgtLang');
   const engineElem=document.getElementById('selectEngine');
   const uiLangElem=document.getElementById('selectUILang');
+  const lightThemeIconElem=document.getElementById('svgLightThemeIcon');
+  const darkThemeIconElem=document.getElementById('svgDarkThemeIcon');
   const globeIconElem=document.getElementById('svgGlobeIcon');
   const infoIconElem=document.getElementById('svgInfoIcon');
   const tElems=Array.from(document.getElementsByClassName('t-text'));
   const uiLangOptionElems=Array.from(document.getElementsByClassName('ui-lang-option'));
-  let {tgtLang,engine,uiLang}=await browser.storage.local.get(['tgtLang','engine','uiLang']);
+  let {tgtLang,engine,uiLang,isThemeDark}=await browser.storage.local.get(['tgtLang','engine','uiLang','isThemeDark']);
+  if(isThemeDark===undefined){
+    isThemeDark=matchMedia('(prefers-color-scheme: dark)').matches;
+    browser.storage.local.set({isThemeDark});
+  }
   const updateInstructionVisibility=()=>{
     instructionElem.style.display=toggleSwitchElem.checked?'block':'none';
   };
@@ -90,13 +96,20 @@ const main=async ()=>{
     }
     updateEngineElem();
     const {quota}=await sendReqUtil('/get-quota');
-    if(quota){
-      balanceElem.style.color='#111827';
-    }
-    else{
-      balanceElem.style.color='#E53935';
-    }
+    balanceElem.classList.remove('balance-ok','balance-zero');
+    balanceElem.classList.add(quota?'balance-ok':'balance-zero');
     balanceElem.innerText=quota;
+  };
+  const updateTheme=()=>{
+    lightThemeIconElem.style.display=isThemeDark?'':'none';
+    darkThemeIconElem.style.display=isThemeDark?'none':'';
+    document.body.classList.remove('light-theme','dark-theme');
+    document.body.classList.add(isThemeDark?'dark-theme':'light-theme');
+  };
+  const toggleTheme=()=>{
+    isThemeDark=!isThemeDark;
+    browser.storage.local.set({isThemeDark});
+    updateTheme();
   };
   const checkTgtLangEngineComp=(tgtLang,engine)=>{
     if(['hr','is'].includes(tgtLang)&&engine==='deepl'){
@@ -106,6 +119,7 @@ const main=async ()=>{
     return true;
   };
   updateT();
+  updateTheme();
   updateTgtLangElem();
   updateEngineElem();
   updateUserSection();
@@ -171,6 +185,8 @@ const main=async ()=>{
       e.target.value=engine;
     }
   });
+  lightThemeIconElem.addEventListener('click',toggleTheme);
+  darkThemeIconElem.addEventListener('click',toggleTheme);
   globeIconElem.addEventListener('click',()=>{
     if(uiLangElem.style.display==='block'){
       uiLangElem.style.display='none';
@@ -189,7 +205,7 @@ const main=async ()=>{
     alert(infoText);
   });
   uiLangOptionElems.forEach((x)=>{
-    x.addEventListener('click',async (e)=>{
+    x.addEventListener('click',(e)=>{
       uiLang=e.target.getAttribute('data-value');
       browser.storage.local.set({uiLang});
       updateT();
