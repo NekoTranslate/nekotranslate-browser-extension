@@ -18,26 +18,26 @@ export default {
         'cpp':1,
         'isRealtime':false,
     },
-    'deepseekv31':{
-        'name':'DeepSeek-V3.1',
+    'deepseekv4_flash':{
+        'name':'DeepSeek-V4 Flash',
         'minLevel':1,
         'cpp':1,
         'isRealtime':false,
     },
-    'gpt5_mini':{
-        'name':'GPT-5 mini',
+    'gpt54_nano':{
+        'name':'GPT-5.4 nano',
         'minLevel':1,
         'cpp':3,
         'isRealtime':false,
     },
-    'claude45_sonnet':{
-        'name':'Claude Sonnet 4.5',
+    'claude5_sonnet':{
+        'name':'Claude Sonnet 5',
         'minLevel':2,
         'cpp':10,
         'isRealtime':false,
     },
-    'gpt5':{
-        'name':'GPT-5',
+    'gpt56_terra':{
+        'name':'GPT-5.6 Terra',
         'minLevel':3,
         'cpp':20,
         'isRealtime':false,
