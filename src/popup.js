@@ -103,8 +103,12 @@ const main=async ()=>{
   const updateTheme=()=>{
     lightThemeIconElem.style.display=isThemeDark?'':'none';
     darkThemeIconElem.style.display=isThemeDark?'none':'';
-    document.body.classList.remove('light-theme','dark-theme');
-    document.body.classList.add(isThemeDark?'dark-theme':'light-theme');
+    if(isThemeDark){
+      document.body.classList.add('dark-theme');
+    }
+    else{
+      document.body.classList.remove('dark-theme');
+    }
   };
   const toggleTheme=()=>{
     isThemeDark=!isThemeDark;
