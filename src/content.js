@@ -29,7 +29,7 @@ const main=async ()=>{
     }
     .overlay {
       position: absolute;
-      background-color: #00000066;
+      background-color: #00000052;
     }
     .anim, .result {
       position: absolute;
@@ -39,26 +39,18 @@ const main=async ()=>{
       height: 100%;
     }
     .anim {
-      background-color: #FFFFFF33;
-      animation: load-anim-1 ${config.NOTICE_AFTER}ms linear;
+      background-color: #FFFFFF;
+      animation: load-anim 4s linear infinite alternate;
     }
     .result {
       object-fit: contain;
     }
-    @keyframes load-anim-1 {
+    @keyframes load-anim {
       0% {
-        width: 0;
+        opacity: 0.16;
       }
       100% {
-        width: 100%;
-      }
-    }
-    @keyframes load-anim-2 {
-      0% {
-        width: 0;
-      }
-      100% {
-        width: 95%;
+        opacity: 1;
       }
     }
   `;
@@ -80,9 +72,6 @@ const main=async ()=>{
       const overlayElem=document.createElement('div');
       overlayElem.className='overlay';
       const animElem=document.createElement('div');
-      animElem.addEventListener('animationend',()=>{
-        animElem.style.animation='load-anim-2 30s linear forwards';
-      });
       animElem.className='anim';
       overlayElem.appendChild(animElem);
       const updOverlay=()=>{

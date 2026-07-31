@@ -5,7 +5,6 @@
     "API_URL":"https://nekotranslate.ai/api/v2",
     "WEB_URL":"https://nekotranslate.ai",
     "WS_PING_INTERVAL":10000,
-    "WS_RECONNECT_TIMEOUT":1000,
-    "NOTICE_AFTER":10000
+    "WS_RECONNECT_TIMEOUT":1000
 }
 
