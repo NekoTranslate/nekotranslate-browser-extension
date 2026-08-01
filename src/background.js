@@ -2,6 +2,7 @@ import browser from 'webextension-polyfill';
 import getTokenUtil from './get-token-util';
 import sendReqUtil from './send-req-util';
 import locales from './locales';
+import engineMap from './engine-map';
 import config from './config';
 const rebuildCtxMenu=async ()=>{
   await browser.contextMenus.removeAll();
@@ -30,11 +31,15 @@ const initAddon=async ()=>{
     engine:config.DEFAULT_ENGINE,
     uiLang,
   });
+  if(!engineMap[settings.engine]){
+    settings.engine=config.DEFAULT_ENGINE;
+  }
   await browser.storage.local.set(settings);
   rebuildCtxMenu();
 };
 browser.runtime.onInstalled.addListener(initAddon);
 browser.runtime.onStartup.addListener(initAddon);
+initAddon();
 browser.runtime.onMessage.addListener(async (message,sender)=>{
   if(message.action==='goTl'){
     const {tgtLang,engine}=await browser.storage.local.get(['tgtLang','engine']);
@@ -133,7 +138,7 @@ browser.runtime.onMessage.addListener(async (message,sender)=>{
     getTokenUtil(false,message.origTabId);
   }
 });
-browser.contextMenus.onClicked.addListener(async (info,tab)=>{
+browser.contextMenus.onClicked.addListener((info,tab)=>{
   if(info.menuItemId===config.CTX_MENU_ITEM_ID){
     browser.tabs.sendMessage(tab.id,{action:'signalAck'});
   }

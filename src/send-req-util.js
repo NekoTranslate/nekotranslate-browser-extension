@@ -1,6 +1,6 @@
 import getTokenUtil from './get-token-util';
 import config from './config';
-const sendReqUtil=async(endpoint,body)=>{
+const sendReqUtil=async (endpoint,body)=>{
   const headers={};
   if(body&&body.constructor.name==='Object'){
     headers['Content-Type']='application/json';

@@ -62,7 +62,7 @@ const main=async ()=>{
     e.stopImmediatePropagation();
     rightClickedElem=e.target;
   },true);
-  browser.runtime.onMessage.addListener(async (message)=>{
+  browser.runtime.onMessage.addListener((message)=>{
     if(message.action==='signalAck'){
       if(!rightClickedElem||!(['IMG','CANVAS'].includes(rightClickedElem.tagName))){
         return;
