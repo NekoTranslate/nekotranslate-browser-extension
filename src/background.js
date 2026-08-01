@@ -37,9 +37,6 @@ const initAddon=async ()=>{
   await browser.storage.local.set(settings);
   rebuildCtxMenu();
 };
-browser.runtime.onInstalled.addListener(initAddon);
-browser.runtime.onStartup.addListener(initAddon);
-initAddon();
 browser.runtime.onMessage.addListener(async (message,sender)=>{
   if(message.action==='goTl'){
     const {tgtLang,engine}=await browser.storage.local.get(['tgtLang','engine']);
@@ -154,4 +151,11 @@ browser.storage.onChanged.addListener((changes,areaName)=>{
     }
   }
 });
+if(browser.runtime.getManifest().manifest_version===3){
+  browser.runtime.onInstalled.addListener(initAddon);
+  browser.runtime.onStartup.addListener(initAddon);
+}
+else{
+  initAddon();
+}
 
