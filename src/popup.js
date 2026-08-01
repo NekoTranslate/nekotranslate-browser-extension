@@ -151,8 +151,8 @@ const main=async ()=>{
     browser.tabs.reload(tab.id);
     updateInstructionVisibility();
   });
-  signInElem.addEventListener('click',()=>{
-    browser.runtime.sendMessage({
+  signInElem.addEventListener('click',async ()=>{
+    await browser.runtime.sendMessage({
       action:'tryLogin',
       origTabId:tab.id,
     });
